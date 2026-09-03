@@ -14,6 +14,6 @@
 - [发布与传播时间线](08-dissemination-timeline.md)
 - [朋友事实核查问题单](09-friend-fact-check-questions.md)
 - [公开来源采集记录](10-source-capture-log.md)
+- [独立第三方研究注意事项](12-independent-research-caveats.md)
 
 这些文件是研究准备材料，不包含参与者数据。正式招募或收集材料前，应根据所在机构和地区要求完成伦理审批，并补齐文档中的占位信息。
-
