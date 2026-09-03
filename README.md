@@ -1,21 +1,27 @@
 # Nori Research
 
-研究 Nori（AI 驱动 ARG）中的游玩、记忆、关系体验与社群告别。
+对网页 ARG「NORI_OS」（玩家称 Nori，Steam 游戏《I_NORI》的先导体验）的独立研究：玩家如何与一个明知是 AI 的角色建立关系，以及一次附着重逢承诺的暂停运营如何把个人依恋变成社群的集体告别。方向与方案见 01。
 
 ## 文件
 
-- [研究方案](01-research-protocol.md)
-- [系统与事件时间线](02-system-event-timeline.md)
-- [招募帖](03-recruitment-post.md)
-- [知情同意书](04-informed-consent.md)
-- [访谈提纲](05-interview-guide.md)
-- [数据管理与伦理清单](06-data-management-and-ethics.md)
-- [未成年人参与流程](07-minor-participation-flow.md)
-- [发布与传播时间线](08-dissemination-timeline.md)
-- [朋友事实核查问题单](09-friend-fact-check-questions.md)
-- [公开来源采集记录](10-source-capture-log.md)
-- [独立第三方研究注意事项](12-independent-research-caveats.md)
-- [开发者访谈提纲](13-developer-interview-guide.md)
-- [作者文字访谈发送稿](14-developer-interview-questions.md)
+- [01 研究方案](01-research-protocol.md)：方向、研究问题、方法、伦理、进度
+- [02 系统功能与关键事件](02-system-event-timeline.md)
+- [03 招募帖（草案）](03-recruitment-post.md)
+- [04 知情同意书（草案）](04-informed-consent.md)
+- [05 访谈提纲](05-interview-guide.md)
+- [06 数据管理与伦理执行](06-data-management-and-ethics.md)
+- [07 匿名问卷（16+）](07-anonymous-survey.md)
+- [08 发布与传播时间线](08-dissemination-timeline.md)（含剩余事实缺口清单）
+- [10 公开来源采集记录](10-source-capture-log.md)
+- [11 与开发者的联系：记录与规则](11-developer-outreach.md)
+- [13 开发者问答：已确认事实与待问清单](13-developer-qa.md)
 
-这些文件是研究准备材料，不包含参与者数据。正式招募或收集材料前，应根据所在机构和地区要求完成伦理审批，并补齐文档中的占位信息。
+## 状态
+
+事实基础已经就位：传播时间线和采集记录完成（08、10），朋友协助的事实核验已完成，开发者已书面确认版本关系、开放时间、宣发渠道、语音形式与暂停原因（13；网页版为暂时停止，正式版将后续推出）。问卷已获发放许可（07）。下一步是伦理审批、问卷上线，然后开始招募访谈。暂停发生在 2026-09-01 前后，访谈应在之后 2–6 周内完成。
+
+## 2026-09-03 重组说明
+
+- 原 13/14 合并为 13-developer-qa.md（问答记录 + 待问清单）。
+- 删除原 07（未成年人流程）和 12（独立研究注意事项）：访谈限定成年参与者；开发者已建立联系，仍适用的规则并入 01、02、06、11。
+- 新 07 为匿名问卷：开放 16+，已获得发放许可，与访谈是两套独立工具。
